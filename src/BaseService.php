@@ -1,6 +1,6 @@
 <?php
 
-namespace WeChatPay;
+namespace tinymeng\pay\WeChatPay;
 
 class BaseService
 {
